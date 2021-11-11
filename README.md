@@ -1,12 +1,12 @@
 <h1 align="center">URL Shortener</h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jtiagosantos/url-shortener?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jtiagosantos/url-shortener">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jtiagosantos/url-shortener?color=%green">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jtiagosantos/url-shortener?color=blue">
   <a href="https://github.com/jtiagosantos/url-shortener/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jtiagosantos/url-shortener">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jtiagosantos/url-shortener?color=purple">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=orange">
    <a href="https://github.com/jtiagosantos/url-shortener/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/jtiagosantos/url-shortener?style=social">
   </a>

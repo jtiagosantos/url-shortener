@@ -7,7 +7,7 @@ class GetAllUrlsController {
       const urls = await new GetAllUrlsService().execute();
       response.status(200).json(urls);
     } catch(error: any) {
-      response.status(400).json({ error: error.message });
+      response.status(500).json({ error: error.message });
     }
   };
 };

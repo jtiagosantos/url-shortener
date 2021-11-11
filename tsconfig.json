@@ -1,10 +1,13 @@
 {
   "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "target": "es2017",                                    
     "module": "commonjs",                                                               
     "moduleResolution": "node",                       
     "baseUrl": "./src",                                 
-    "outDir": "./build",                                   
+    "outDir": "./dist",   
+    "rootDir": "./src",                                
     "esModuleInterop": true,                             
     "forceConsistentCasingInFileNames": true,            
     "strict": true,                                      

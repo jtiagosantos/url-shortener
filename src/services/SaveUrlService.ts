@@ -4,6 +4,7 @@ type BodyProps = {
   originURL: string,
   hash: string,
   shortenedURL: string,
+  views: number,
 };
 
 class SaveUrlService {

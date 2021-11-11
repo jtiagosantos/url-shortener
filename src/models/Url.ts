@@ -9,6 +9,9 @@ class Url {
 
   @prop({ required: true })
   public shortenedURL?: string;
+
+  @prop()
+  public views?: number;
 };
 
 export const UrlModel = getModelForClass(Url);
